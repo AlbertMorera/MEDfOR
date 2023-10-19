@@ -1,3 +1,4 @@
+![an image caption Source: Ultimate Funny Dog Videos Compilation 2013.](images/week3/silly-dog.png)
 
 # **Optimizing mushroom sampling: relationships between the number of individuals, dry biomass and wet biomass**
 
