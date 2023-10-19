@@ -1,4 +1,4 @@
-![an image caption Source: Ultimate Funny Dog Videos Compilation 2013.]([https://github.com/AlbertMorera/MEDfOR/blob/main/MEDfOR%20Thesis%20Topics%202023/bolet.jpg](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/boletus.jpg))
+![an image caption Source: Ultimate Funny Dog Videos Compilation 2013.](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/boletus.jpg)
 
 # **Optimizing mushroom sampling: relationships between the number of individuals, dry biomass and wet biomass**
 
