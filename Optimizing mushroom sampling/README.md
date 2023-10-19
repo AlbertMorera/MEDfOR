@@ -2,7 +2,9 @@
 
 # **Optimizing mushroom sampling: relationships between the number of individuals, dry biomass and wet biomass**
 
-### "MEDfOR - Master Thesis Proposals" ![MEDfOR logo](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/logo_medfor.png)
+### "MEDfOR - Master Thesis Proposals" 
+
+![MEDfOR logo|320x271](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/logo_medfor.png)
 
 </br>
 
