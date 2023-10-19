@@ -1,6 +1,6 @@
 
 # **Optimizing mushroom sampling: relationships between the number of individuals, dry biomass and wet biomass**
-# "MEDfOR - Master Thesis Proposals"
+### "MEDfOR - Master Thesis Proposals"
 
 ## Introduction
 
