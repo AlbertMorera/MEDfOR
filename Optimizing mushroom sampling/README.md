@@ -6,6 +6,10 @@
 
 ![MEDfOR logo](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/logo_medfor.png){width=5%}
 
+```{r, out.width = "40px"}
+knitr::include_graphics("[path/to/image.png](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/logo_medfor.png)")
+```
+
 </br>
 
 ## Introduction
