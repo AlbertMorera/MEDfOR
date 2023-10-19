@@ -4,7 +4,7 @@
 
 ### "MEDfOR - Master Thesis Proposals" 
 
-![MEDfOR logo|320x271](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/logo_medfor.png)
+![MEDfOR logo](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/rsz_logo_medfor.png)
 
 </br>
 
