@@ -6,7 +6,7 @@
 
 ![MEDfOR logo | width=100](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/logo_medfor.png)
 
-＜img src="[Paste Your Link Here](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/logo_medfor.png)" width="500" height="300"＞
+＜img src="https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/logo_medfor.png" width="500" height="300"＞
 
 </br>
 
