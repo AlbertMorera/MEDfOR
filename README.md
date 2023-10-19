@@ -1,11 +1,6 @@
----
-title: "MEDfOR - Master Thesis Proposals"
-output:
-  html_document: default
-  word_document: default
----
 
 ## **Optimizing mushroom sampling: relationships between the number of individuals, dry biomass and wet biomass**
+## "MEDfOR - Master Thesis Proposals"
 
 # Introduction
 
