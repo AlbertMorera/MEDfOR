@@ -1,8 +1,8 @@
 
-## **Optimizing mushroom sampling: relationships between the number of individuals, dry biomass and wet biomass**
-## "MEDfOR - Master Thesis Proposals"
+# **Optimizing mushroom sampling: relationships between the number of individuals, dry biomass and wet biomass**
+# "MEDfOR - Master Thesis Proposals"
 
-# Introduction
+## Introduction
 
 Mushroom sampling is essential for estimating natural ecosystem biodiversity, as well as for understanding the functioning and assessing the ecosystem services of our forests. 
 
@@ -11,7 +11,7 @@ However, in-situ mushroom sampling is a costly and resource-intensive process. A
 In this master thesis we will try to relate the number of mushrooms, their dry biomass and their wet biomass and how these relationships are modulated by meteorological conditions, in order to optimize mushroom sampling. For this we will use the largest mushroom database in the world and the state-of-the-art modeling techniques to achieve our objectives.
 
 
-# Objectives
+## Objectives
 - Relate the number of carpophores to mushroom biomass.
 - Relate dry biomass to wet biomass of fungi.
 - Determine the meteorological conditions that modulate these relationships.
@@ -21,23 +21,23 @@ The objectives are not fixed, but subject to the interests and motivation of the
 This master thesis has the possibility to be published in a scientific journal if the student and the results encourage it.
 
 
-# Skills to be developed
+## Skills to be developed
 - Knowledge of fungal ecology
 - Writing scientific articles
 - Programming using R language
 - Statistical modeling and/or modeling based on Machine Learning
 
 
-# Methodology
+## Methodology
 For this master thesis we will use the largest mushroom database in the world (property of the Universitat de Lleida), with information on weekly mushroom production resulting from a network of more than 100 permanent sampling plots distributed throughout Catalonia. 
 Statistical modeling or machine learning techniques (to be agreed), high resolution meteorological data and RStudio software will be used to meet the objectives of the master thesis.
 
 
-# Supervisors
+## Supervisors
 -	Dr. Sergio de Miguel (UdL - CTFC) - [GoogleScholar](https://scholar.google.com/citations?hl=en&user=HVgjsAMAAAAJ) - sergio.demiguel@udl.cat
 -	Sr. Albert Morera (UdL - CTFC) - [GoogleScholar](https://scholar.google.com/citations?user=O4XCe_gAAAAJ&hl=en&oi=ao) - morera.marra@gmail.com
 
-# Recent related publications
+## Recent related publications
 Morera, A. et al. (2022) ‘Historical and future spatially-explicit climate change impacts on mycorrhizal and saprotrophic macrofungal productivity in Mediterranean pine forests’, Agricultural and Forest Meteorology, 319, p. 108918. [doi: 10.1016/j.agrformet.2022.108918](https://www.sciencedirect.com/science/article/pii/S0168192322001113)
 
 Ponce, Á. et al. (2022) ‘Environmental drivers shaping the macrofungal sporocarp community in Mediterranean Quercus ilex stands’, Forest Ecology and Management, 524, p. 120523. [doi: 10.1016/j.foreco.2022.120523](https://www.sciencedirect.com/science/article/pii/S0378112722005175)
