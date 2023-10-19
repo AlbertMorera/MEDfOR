@@ -3,7 +3,7 @@
 
 ### "MEDfOR - Master Thesis Proposals"
 
-
+</br>
 
 ## Introduction
 
