@@ -10,6 +10,8 @@
 
 ＜img src="https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/boletus.jpg" width="500" height="300"＞
 
+![Boletus](https://github.com/AlbertMorera/MEDfOR/blob/main/Optimizing%20mushroom%20sampling/boletus.jpg)
+
 </br>
 
 ## Introduction
